@@ -1,0 +1,132 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Act anent the selling of the lands of forfaulted persons. 20. February, 1645.</title>
+            <author>Scotland. Convention of Estates.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05166</idno>
+            <idno type="STC">Wing S1051B</idno>
+            <idno type="STC">ESTC R183864</idno>
+            <idno type="EEBO-CITATION">52614920</idno>
+            <idno type="OCLC">ocm 52614920</idno>
+            <idno type="VID">176085</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05166)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176085)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2761:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Act anent the selling of the lands of forfaulted persons. 20. February, 1645.</title>
+                  <author>Scotland. Convention of Estates.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Evan Tyler,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Initial letter.</note>
+                  <note>Signed at end: Alex. Gibsone Cler. Registri.</note>
+                  <note>Publication data from Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Foreclosure --  Scotland --  Early works to 1800.</term>
+               <term>Land tenure --  Law and legislation --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:176085:1" rendition="simple:additions"/>
+            <head>ACT anent the ſelling of the Lands of forfaulted Perſons. <date>20. <hi>February,</hi> 1645.</date>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He Eſtates of Parliament now conveened in the ſecond Seſſion of this firſt triennall Parliament, by vertue of the laſt Act of the laſt Parliament holden by his Ma<g ref="char:EOLhyphen"/>jeſtie and the three Eſtates in <hi>Anno</hi> 1641. Conſider<g ref="char:EOLhyphen"/>ing that the Eſtates of Parliament by their Act of the date the 27. of July 1644. Conſidering that it was againſt all equitie and reaſon, That the Vaſſals, Cautioners, and true and reall Creditors of any perſon or perſons, of whatſoever qualitie, that ſhould be forfaulted in this preſent Parliament, or at any time thereafter, ſhould be prejudged by the forfaulture of the ſaids perſons off their right of propertie of any Lands, Wodſets, and others, hol<g ref="char:EOLhyphen"/>den by them of the ſaids forfaulted perſons, or of the payment of their juſt Debts, and reliefe of their true and reall Cautionries, for payment and relief whereof the ſaids forfaulted perſons ſtood obliged, the ſaids Vaſſals, Creditors, and Cautioners foreſaids, not being airt, pairt, ac<g ref="char:EOLhyphen"/>ceſſarie, nor aſſiſting to the crimes for which the ſentence and doome of forfalture was or ſhould be decerned: Therefore the ſaids Eſtates fand, decerned, and declared, That the Vaſſals of any perſon or perſons of whatſoever qualitie, who were or ſhould happen to be forfaulted in that preſent Parliament, or at any time thereafter, for whatſoever cauſe, ground, or occaſion, whereupon ſentence and doome of forfaul<g ref="char:EOLhyphen"/>ture ſhould be given and pronounced againſt them, ſhould not be pre<g ref="char:EOLhyphen"/>judged anent their right and propertie of the Lands, Annuall-rents, Wodſets, and others holden by them of the ſaids forfaulted perſons; but that the ſaids Vaſſals ſhould be in that ſame caſe and condition with theſe who comes in the right and place of the ſaids forfaulted perſons, as the ſaids Vaſſals were with the ſamin forfaulted perſons, their Superiors, before the Sentence and Doome of forfaulter, The ſaids Vaſſals no wayes being airt, pairt, acceſſory, nor aſſiſting to the ſaids forfaulted perſons, in the committing of the crimes or deeds, for the which the Sentence or Doome of forfaulter, was, or ſhould be given againſt them, as ſaid is. And alſo found and Declared, That the true Creditors and Cautioners of the ſaids forfaulted perſons, or theſe who had any part of the fines aſſigned to them by the Publick, ſhould no wayes be prejudged by the foreſaid forfaulter, anent the payment of the ſaids Creditors, of their reall, juſt, and true Debts owing and aſſigned to them, and anent the ſaids Cautioners their relief of their juſt and true Ingagements, and Cautionries, but that the ſaids Creditors and Cau<g ref="char:EOLhyphen"/>tioners <hi>reſpectivè,</hi> ſhould have action and execution for their payment and relief <hi>reſpectivè,</hi> againſt the Lands and Eſtate of the forfaulted per<g ref="char:EOLhyphen"/>ſons, their Debters ſicklike, and in the ſamin manner, as if they had not been forfaulted; Providing the ſaids Creditors and Cautioners have not been airt, pairt, acceſſory, nor aſsiſting to the ſaids forfaulted perſons in the committing of the Crimes for which they were or ſhould be
+<pb n="2" facs="tcp:176085:2"/>forfaulted: And with proviſion, That they be Vaſſals, Creditors, and Cautioners, before the committing of the Crimes, whereupon the Forfaulter follows, as the ſaid Act of the date foreſaid proports. And, The ſaids Eſtates of Parliament now preſently conveened alſo, conſi<g ref="char:EOLhyphen"/>dering That ſeverall perſons were forfaulted in the laſt Seſsion of this preſent Parliament: And that divers and ſundry perſons are and have been forfaulted in this preſent Seſſion of Parliament. As alſo conſide<g ref="char:EOLhyphen"/>ring, That it is expedient both for the weale of the lawfull Creditors and Cautioners of perſons forfaulted heretofore, or who ſhall happen to be forefaulted hereafter: And for the weale of theſe to whom the perſons forefaulted, or who ſhall happen to be forfaulted in this preſent Seſſion of Parliament, are bound as Cautioners for any other perſon or perſons. And als, for the weale of the Publick for defraying of the Publick charges of the Eſtates of this Kingdom, That ane juſt and expe<g ref="char:EOLhyphen"/>dite way be taken for the diſcovery of the juſt and lawful Debts, owing by any perſon or perſons, either already forfaulted before the date of thir preſents, or who ſhall happen to be forfaulted hereafter in this pre<g ref="char:EOLhyphen"/>ſent Seſſion of Parliament, to their juſt and lawfull Creditors to whom the ſaids perſons forfaulted, or to be forfaulted, are Debters as Princi<g ref="char:EOLhyphen"/>pals, or whom the ſaids perſons forfaulted, or to be forfaulted, are Debtors in the way of lawfull relief: They being Cautioners for the ſaids perſons forfaulted, or to be forfaulted, or to whom the ſaids per<g ref="char:EOLhyphen"/>ſons forfaulted, or to be forfaulted, are Cautioners for any other per<g ref="char:EOLhyphen"/>ſon or perſons. And to the effect, that all perſon or perſons, who are either Creditors or Cautioners to the perſons forfaulted, or to be for<g ref="char:EOLhyphen"/>faulted, or to whom the ſaids perſons forefaulted, or to be for<g ref="char:EOLhyphen"/>faulted, are Cautioners, May in due time, both for their own, and the Publick weale, make their Debts owing to them by the ſaids perſons forefaulted, or to be forfaulted, either as Principals or Cautioners in manner aboveſpecified, known to the Eſtates of this Kingdom, that they may have the benefit of the foreſaid Act of the date the 27 July 1644. And that their Debts being known and ſatisfied, and paid by the courſe afterſpecified; The remainder of the Lands, Eſtate, and Goods, of the foreſaids perſons forefaulted, or to be forfaulted, and hail farther benefit thereof, may expeditely and conveniently come in to the Eſtates of this Kingdome, for the weale of the Publick, and for the relief of the Publick Burdens. Therefore the ſaids Eſtates of Parliament, Statutes and Ordains, That all perſon or perſons what<g ref="char:EOLhyphen"/>ſomever, to whom any perſon already forfaulted before the date of thir preſents, or who ſhall happen to be forfaulted in this preſent Seſsion of Parliament, Is addebted juſtly and really in any ſums of money, or any otherwiſe, either as Principall Debtors, or as Cautioners for any other perſons. And als, that all perſons who are Cautioners for any perſons already forfaulted, or who ſhall happen to be forfaulted in this preſent Seſsion of Parliament, to their lawfull Creditors; Shall exhi<g ref="char:EOLhyphen"/>bit and produce before the Committee of Eſtates; to be appointed to ſit at Edinburgh, or where it ſhal happen them to be for the time after the riſing of this preſent Seſsion of Parliament, Their whole Rights, Writs, Evidents, and other lawful Securities, whereby the ſaids perſons forfaul<g ref="char:EOLhyphen"/>ted, or to beforfaulted in this preſent Seſsion of Parliament, are their juſt
+<pb n="3" facs="tcp:176085:2"/>and reall Debtors, either as Principall Debtors to them, or as Debtors to them as Cautioners for other perſons, or whereby they are Cautio<g ref="char:EOLhyphen"/>ners for the ſaids forfaulted perſons, or to be forfaulted in this preſent Seſsion of Parliament: And which Cautioners, the ſaids forfaulted, or to be forfaulted perſons in this preſent Seſsion, are obliged in law to relieve. And that the production of the foreſaids Writs, Evidents, and Securi<g ref="char:EOLhyphen"/>ties, in ſo far concerns any perſons forefaulted heretofore, or in the pre<g ref="char:EOLhyphen"/>ſent Seſſion of Parliament, Be made by the Creditors and Cautioners, ſo many of them as are without the Countrey, within three moneths; and theſe that are within the Countrey, within threeſcore dayes, after publication hereof at the Head Burghs of the ſeverall Sheriffdoms within the Kingdom: With certification to all and whatſomever the Creditors of the perſons already forefaulted heretofore, or to be fore<g ref="char:EOLhyphen"/>faulted in this preſent Seſſion; That if they failȝie, To exhibit and pro<g ref="char:EOLhyphen"/>duce before the Committe of Eſtates Their foreſaids Writs, Evidents, and Securities, made to them by the ſaids forefaulted perſons within the Diets <hi>reſpectivè</hi> foreſaids: That the foreſaids Creditors, ſhall never in any time thereafter, Have any action againſt the Lands, Eſtates, and Goods of the foreſaids forefaulted perſons, for payment of their debts upon the pretence of the foreſaid Act of the 27. July laſt, or upon any other pretence whatſoever: But that the Lands, Eſtate, and Goods of the foreſaids forefaulted perſons ſhall pertain to the Publick. Neither ſhall they have any action againſt their Cautioners, but prejudice al<g ref="char:EOLhyphen"/>wayes to them after production, in manner, and at the time foreſaid, to take preſently back their Writs and Purſue: But prejudice alſo to the ſaids Creditors of their action and execution competent to them againſt their Cautioners, conforme to their Bands and Rights. It is al<g ref="char:EOLhyphen"/>ſo declared for the Cautioners of the ſaids forefaulted, or to be fore<g ref="char:EOLhyphen"/>faulted perſons, that they ſhall not be holden to produce the Writs and Bands wherein they are Cautioners, But onely to give in ane note under their hands of the names of the Creditors to whom they are Cautioners, and of the ſums contained thereintill (Becauſe the Writs and other Securities wherein they are Cautioners, are not their evi<g ref="char:EOLhyphen"/>dents and in their option, but in the hands of the Creditors to whom they are principally made) Likeas the ſaids Eſtates of Parliament, Finds and decerns the ſamin, To pertaine to the publick for reliefe of their publick Debts and Burdens in all time hereafter, without any Burden of payment of the Debts owing to the ſaids Creditors failȝing, to produce and make known their Debts, at the time, and in manner foreſaid. It is alſo declared, That where the Creditors or Cau<g ref="char:EOLhyphen"/>tioners are Minors, Their Tutors and Curators are obliged in the like manner, To produce their Bands, Rights, or Notes; or otherwiſe be lyable to their Minors, for refounding their damnage and intereſt. Likeas alſo the Eſtates of Parliament; conſidering That the foreſaid perſons already forefaulted, may be ingaged in manner aboveſpecified, either as Principals or Cautioners to divers and ſeverall perſons their Creditors: To which Creditors no preſent payment of their Debts can be made in a preſent convenient and expedit way, without the ſel<g ref="char:EOLhyphen"/>ling of the Lands, Heritages, and Eſtates, which pertained to the fore<g ref="char:EOLhyphen"/>ſaids
+<pb n="4" facs="tcp:176085:3" rendition="simple:additions"/>perſons forefaulted before their forefaulter; The ſale whereof can<g ref="char:EOLhyphen"/>not be expeditely done, neither for the weale of the ſaids Creditors, nor for the weale of the Publick. And to the effect the ſaids Creditors may receive ſatisfaction in a juſt and reaſonable way, out of the ſaids forefaulted perſons, their Lands, Heritages, and Eſtate, And that the benefit of the reſidue thereof, may come into the Publick of this King<g ref="char:EOLhyphen"/>dom; Therefore the Eſtates of Parliament, Decernes and Ordaines, That the foreſaids Creditors or Cautioners ſhall be obliged, To ac<g ref="char:EOLhyphen"/>cept ane proportionall part of the Lands and Heritages of the ſaids perſons forefaulted their Debtors <hi>reſpectivè,</hi> for their Debts owing to them, being inſtructed at the time and in manner aboveſpecified, at the ſight and determination of the ſaid Committee of Eſtates: And that at the rate and proportion of One hundreth Merks of ordinar yeerly conſtant Rent for ilk ſum of Two thouſand Merks, addebted by the ſaids forefaulted perſons, to their ſaids Creditors or Cautio<g ref="char:EOLhyphen"/>ners; or otherwiſe to be deprived of the benefit of the Act of Parlia<g ref="char:EOLhyphen"/>ment 27. July 1644. and to be reduced to the old eſtate of the Creditors of forefaulted perſons, as if the ſamin had never been made. Likeas alſo, It is ſtatute and Ordained, That the ſuperplus of the Lands, Heritages, and Eſtate of the foreſaids forfaulted perſons (their Creditors foreſaids being ſatisfied in manner aboveſpecified) ſhall and and may be divided in parcels, and ſold and diſponed by the Eſtates of this Kingdom, or by the ſaid Committee of Eſtates to any buyer whatſomever, paying preſent money over the Table, at the rate of One hundreth Merks of y<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erly conſtant Rent for ilk ſum of One thouſand Merks, as the price thereof: And where preſent money for the Lands cannot be had nor offered, that then they may be ſold and diſponed to any perſon to whom the Publick is addebted, They advancing in ready money the one half, at ten years purchſae, and accompting in payment of their debts, being lent money, or furniſhing to the Armies: the other half, at the rate of fifteene years purchaſe. Likeas, The ſaids Eſtates of Parliament, do by thir preſents, give full power and Com<g ref="char:EOLhyphen"/>miſſion to the ſaid Committee of Eſtates, To divide the Lands, and others of the foreſaids forfeited Perſons; And to that effect, To take up the juſt and true Rentall thereof, and to eſtimat and convert Victuall and other Rent (not being ſilver Rent) and to redact the ſamin to money Rent, and to ſell and diſpone the reſidue and remainder of the Lands, Heritages, and Eſtates of the foreſaids forfeited Perſons, to any Buyer, at the rate and in manner foreſaid. Likeas, The Eſtates of Parlia<g ref="char:EOLhyphen"/>ment decerns and declares, That the Diſpoſitions ſo to be made there<g ref="char:EOLhyphen"/>of to the foreſaids Creditors above-ſpecified, and to the ſaids Buyers, ſhall be valide ſureties to them thereof, in all time-coming. And ſic<g ref="char:EOLhyphen"/>like Ordains Infeſtments to paſſe under the Great Seal, upon the fore<g ref="char:EOLhyphen"/>ſaids Diſpoſitions, to be made by the ſaid Committee of Eſtates, of the Lands and others, holden of the Kings Majeſtie, and Prince. And Preſentations to be granted by the ſaid Committee of Eſtates, to other Superiours, of ſo many of the foreſaids Lands, and others above-ſpecified, as are holden of the ſaids others Superiours.</p>
+            <closer>
+               <signed>Alex. Gibſone Cler. Regiſtri.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
